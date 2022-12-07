@@ -1,6 +1,16 @@
 # projeto_visao_computacional
 Repositório criado para hospedar o projeto de classificação de  visão computacional
 
+# Bibliotecas Utilizadas
+* os
+* numpy
+* skimage
+* sklearn
+* pandas
+* PIL
+* seaborn 
+* matplotlib
+
 ## Execução
 A execução do projeto pode ser realizada através do anaconda através de um ambiente e do jupyter notebook.
 Abaixo segue a configuração do ambiente:
