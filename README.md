@@ -12,3 +12,7 @@ Abaixo segue a configuração do ambiente:
 * $ pip install pandas==1.5.1
 * $ pip install seaborn==0.12.1
 * pip install notebook==6.5.1
+
+## Path
+Substituir  o código o caminho das pasta de treino e teste dos dados pelo caminho do seu armazenamento.
+
