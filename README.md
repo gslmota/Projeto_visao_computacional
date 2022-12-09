@@ -28,5 +28,5 @@ Abaixo segue a configuração do ambiente:
 * pip install notebook==6.5.1
 
 ## Path
-Substituir  o código o caminho das pasta de treino e teste dos dados pelo caminho do seu armazenamento.
+Substituir  no código o caminho das pasta de treino e teste dos dados pelo caminho onde os mesmos estão no armazenamento de sua máquina.
 
