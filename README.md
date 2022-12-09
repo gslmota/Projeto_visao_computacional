@@ -1,11 +1,12 @@
-# projeto_visao_computacional
-Repositório criado para hospedar o projeto de classificação de  visão computacional
+# Projeto da Disciplina de Visão Computacional
+Repositório criado para hospedar o projeto de classificação de imagens.
 
 # Participantes
 * Gabriel Sávio 6319
 * Jocsan Luz 7613
 
 # Bibliotecas Utilizadas
+Caso não as possua, necessário a instalação
 * os
 * numpy
 * skimage
@@ -17,6 +18,7 @@ Repositório criado para hospedar o projeto de classificação de  visão comput
 
 ## Execução
 A execução do projeto pode ser realizada através do anaconda através de um ambiente e do jupyter notebook.
+
 Abaixo segue a configuração do ambiente:
 * $ conda create –n env-proj1-393-py38 python=3.8
 * $ conda activate env-proj1-393-py38
