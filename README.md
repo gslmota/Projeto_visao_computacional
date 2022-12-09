@@ -2,8 +2,8 @@
 Repositório criado para hospedar o projeto de classificação de  visão computacional
 
 # Participantes
-*Gabriel Sávio 6319
-*Jocsan Luz 7613
+* Gabriel Sávio 6319
+* Jocsan Luz 7613
 
 # Bibliotecas Utilizadas
 * os
