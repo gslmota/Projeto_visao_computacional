@@ -2,8 +2,8 @@
 Repositório criado para hospedar o projeto de classificação de imagens.
 
 # Participantes
-* Gabriel Sávio 6319
-* Jocsan Luz 7613
+* Gabriel Sávio
+* Jocsan Luz 
 
 # Bibliotecas Utilizadas
 Caso não as possua, necessário a instalação
